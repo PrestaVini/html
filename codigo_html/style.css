@@ -5,13 +5,33 @@ body {
     background-color: rgb(104, 102, 102);
 }
 
-#cabeçalho{
-    text-align: center;
-    color: antiquewhite;
+footer{
+    background-color: chocolate;
+    border: 3px solid black;
 }
 
-#introducao {
+#cabecalho{
+    text-align: center;
+    color: rgb(240, 207, 98);
+}
+
+#introducao{
     border: 3px solid black;
     padding-left: 200px;
     background-color: white;
+}
+
+#formulario{
+    padding-left: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#links_site{
+    padding-left: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
 }
