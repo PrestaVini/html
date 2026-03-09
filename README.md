@@ -7,9 +7,11 @@ Também contém links para dois sites (galeria e contatos), criados por mim em e
 Links:
 
 Contatos:
+
 -Leva a uma tabela criada em html e estilizada com CSS, contendo três colunas (nome, email, telefone) e dois contatos ficticios.
 
 Galeria:
+
 -Leva a uma pequena galeria de três fotos, também estilizada com CSS.
 
 ## Tecnologias
