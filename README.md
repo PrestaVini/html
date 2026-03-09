@@ -19,4 +19,4 @@ Galeria:
 - CSS
 
 ## Como executar
-Abra o arquivo 
+Abra o arquivo codigo.html da pasta e execute o mesmo no Visual Code Studio ou app semelhante.
