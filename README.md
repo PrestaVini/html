@@ -5,6 +5,7 @@ O site contém um biografia minha, fotos para treinar a inserção de imagens em
 Também contém links para dois sites (galeria e contatos), criados por mim em exercicios de aulas anteriores.
 
 Links:
+
 Contatos:
 -Leva a uma tabela criada em html e estilizada com CSS, contendo três colunas (nome, email, telefone) e dois contatos ficticios.
 
